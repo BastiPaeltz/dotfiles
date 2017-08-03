@@ -1,0 +1,7 @@
+wallpaper: http://galerageek.com.br/wp-content/uploads/2015/02/Gotham-Selina-Kyle-HD-Wallpaper.jpg
+- install monaco font
+- change cursor theme
+- change default font (lxappearance)
+- install grub-holdshift
+- install quickswitch.py
+
